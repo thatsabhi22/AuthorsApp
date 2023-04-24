@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Authors</string>
+    <string name="user_name_hint">Your Name</string>
+    <string name="age_hint">Your Age</string>
+    <string name="email_address_hint">Your Email Address</string>
+    <string name="save_user_button_text">Save User</string>
+</resources>
